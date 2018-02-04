@@ -1,0 +1,4 @@
+E:\MyProject\SunService\SunClass\bin\Debug\SunClass.dll
+E:\MyProject\SunService\SunClass\bin\Debug\SunClass.pdb
+E:\MyProject\SunService\SunClass\obj\Debug\SunClass.dll
+E:\MyProject\SunService\SunClass\obj\Debug\SunClass.pdb
