@@ -1,0 +1,6 @@
+E:\MyProject\Service\SunWcfClient\bin\Debug\SunWcfClient.exe.config
+E:\MyProject\Service\SunWcfClient\bin\Debug\SunWcfClient.exe
+E:\MyProject\Service\SunWcfClient\bin\Debug\SunWcfClient.pdb
+E:\MyProject\Service\SunWcfClient\obj\Debug\SunWcfClient.csprojResolveAssemblyReference.cache
+E:\MyProject\Service\SunWcfClient\obj\Debug\SunWcfClient.exe
+E:\MyProject\Service\SunWcfClient\obj\Debug\SunWcfClient.pdb

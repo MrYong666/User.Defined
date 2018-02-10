@@ -1,0 +1,10 @@
+E:\MyProject\Service\SunService\bin\Debug\SunWindowsService.exe.config
+E:\MyProject\Service\SunService\bin\Debug\SunWindowsService.exe
+E:\MyProject\Service\SunService\bin\Debug\SunWindowsService.pdb
+E:\MyProject\Service\SunService\bin\Debug\SunClass.dll
+E:\MyProject\Service\SunService\bin\Debug\SunClass.pdb
+E:\MyProject\Service\SunService\obj\Debug\SunWindowsService.csprojResolveAssemblyReference.cache
+E:\MyProject\Service\SunService\obj\Debug\SunService.ProjectInstaller.resources
+E:\MyProject\Service\SunService\obj\Debug\SunWindowsService.csproj.GenerateResource.Cache
+E:\MyProject\Service\SunService\obj\Debug\SunWindowsService.exe
+E:\MyProject\Service\SunService\obj\Debug\SunWindowsService.pdb
