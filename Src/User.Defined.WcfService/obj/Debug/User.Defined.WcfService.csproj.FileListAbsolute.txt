@@ -20,11 +20,11 @@ E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\ApplicationInsights.co
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.dll.config
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.dll
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.DependencyCollector.xml
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.Web.xml
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.WindowsServer.xml
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.ApplicationInsights.xml
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.csprojResolveAssemblyReference.cache
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.dll
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.pdb
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Newtonsoft.Json.dll
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Newtonsoft.Json.xml
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\nunit.framework.dll
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\nunit.framework.pdb
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\nunit.framework.xml
