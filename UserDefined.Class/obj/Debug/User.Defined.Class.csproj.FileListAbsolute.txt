@@ -1,0 +1,5 @@
+E:\PersonProject\Service\UserDefined.Class\bin\Debug\User.Defined.Class.dll
+E:\PersonProject\Service\UserDefined.Class\bin\Debug\User.Defined.Class.pdb
+E:\PersonProject\Service\UserDefined.Class\obj\Debug\User.Defined.Class.dll
+E:\PersonProject\Service\UserDefined.Class\obj\Debug\User.Defined.Class.pdb
+E:\PersonProject\Service\UserDefined.Class\obj\Debug\User.Defined.Class.csprojResolveAssemblyReference.cache

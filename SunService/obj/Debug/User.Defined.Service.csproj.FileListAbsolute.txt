@@ -1,0 +1,4 @@
+E:\PersonProject\Service\SunService\obj\Debug\User.Defined.Service.csprojResolveAssemblyReference.cache
+E:\PersonProject\Service\SunService\obj\Debug\SunService.ProjectInstaller.resources
+E:\PersonProject\Service\SunService\obj\Debug\User.Defined.Service.csproj.GenerateResource.Cache
+E:\PersonProject\Service\SunService\bin\Debug\User.Defined.Service.exe.config

@@ -1,4 +1,0 @@
-E:\MyProject\Service\SunClass\bin\Debug\SunClass.dll
-E:\MyProject\Service\SunClass\bin\Debug\SunClass.pdb
-E:\MyProject\Service\SunClass\obj\Debug\SunClass.dll
-E:\MyProject\Service\SunClass\obj\Debug\SunClass.pdb

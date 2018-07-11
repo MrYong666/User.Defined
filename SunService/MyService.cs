@@ -8,7 +8,6 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
-using SunClass;
 namespace SunService
 {
     public partial class MyService : ServiceBase
@@ -24,7 +23,7 @@ namespace SunService
             using (FileStream stream = new FileStream(filePath, FileMode.Append))
             using (StreamWriter writer = new StreamWriter(stream))
             {
-                writer.WriteLine($"{DateTime.Now},服务启动！" + Sun.Info);
+                writer.WriteLine($"{DateTime.Now},服务启动！");
             }
         }
 

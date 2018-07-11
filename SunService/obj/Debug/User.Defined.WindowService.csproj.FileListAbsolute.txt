@@ -1,0 +1,8 @@
+E:\PersonProject\Service\SunService\bin\Debug\User.Defined.WindowService.exe.config
+E:\PersonProject\Service\SunService\bin\Debug\User.Defined.WindowService.exe
+E:\PersonProject\Service\SunService\bin\Debug\User.Defined.WindowService.pdb
+E:\PersonProject\Service\SunService\obj\Debug\SunService.ProjectInstaller.resources
+E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.csproj.GenerateResource.Cache
+E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.exe
+E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.pdb
+E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.csprojResolveAssemblyReference.cache
