@@ -4,6 +4,5 @@ E:\MyProject\Service\Src\UserDefined.Instruction\obj\Debug\User.Defined.Infrastr
 E:\MyProject\Service\Src\UserDefined.Instruction\obj\Debug\User.Defined.Infrastructure.pdb
 E:\MyProject\User.Defined\Src\User.Defined.Infrastructure\bin\Debug\User.Defined.Infrastructure.dll
 E:\MyProject\User.Defined\Src\User.Defined.Infrastructure\bin\Debug\User.Defined.Infrastructure.pdb
-E:\MyProject\User.Defined\Src\User.Defined.Infrastructure\obj\Debug\User.Defined.Infrastructure.csprojResolveAssemblyReference.cache
 E:\MyProject\User.Defined\Src\User.Defined.Infrastructure\obj\Debug\User.Defined.Infrastructure.dll
 E:\MyProject\User.Defined\Src\User.Defined.Infrastructure\obj\Debug\User.Defined.Infrastructure.pdb
