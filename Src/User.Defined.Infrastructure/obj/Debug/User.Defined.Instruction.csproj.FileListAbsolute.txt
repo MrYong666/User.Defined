@@ -1,0 +1,9 @@
+E:\PersonProject\Service\UserDefined.Instruction\bin\Debug\User.Defined.Instruction.dll
+E:\PersonProject\Service\UserDefined.Instruction\bin\Debug\User.Defined.Instruction.pdb
+E:\PersonProject\Service\UserDefined.Instruction\obj\Debug\User.Defined.Instruction.dll
+E:\PersonProject\Service\UserDefined.Instruction\obj\Debug\User.Defined.Instruction.pdb
+E:\MyProject\Service\UserDefined.Instruction\bin\Debug\User.Defined.Instruction.dll
+E:\MyProject\Service\UserDefined.Instruction\bin\Debug\User.Defined.Instruction.pdb
+E:\MyProject\Service\UserDefined.Instruction\obj\Debug\User.Defined.Instruction.csprojResolveAssemblyReference.cache
+E:\MyProject\Service\UserDefined.Instruction\obj\Debug\User.Defined.Instruction.dll
+E:\MyProject\Service\UserDefined.Instruction\obj\Debug\User.Defined.Instruction.pdb

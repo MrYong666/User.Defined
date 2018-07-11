@@ -1,0 +1,9 @@
+E:\PersonProject\Service\User.Defined.Interface\bin\Debug\User.Defined.Interface.dll
+E:\PersonProject\Service\User.Defined.Interface\bin\Debug\User.Defined.Interface.pdb
+E:\PersonProject\Service\User.Defined.Interface\obj\Debug\User.Defined.Interface.dll
+E:\PersonProject\Service\User.Defined.Interface\obj\Debug\User.Defined.Interface.pdb
+E:\MyProject\Service\User.Defined.Interface\bin\Debug\User.Defined.Interface.dll
+E:\MyProject\Service\User.Defined.Interface\bin\Debug\User.Defined.Interface.pdb
+E:\MyProject\Service\User.Defined.Interface\obj\Debug\User.Defined.Interface.csprojResolveAssemblyReference.cache
+E:\MyProject\Service\User.Defined.Interface\obj\Debug\User.Defined.Interface.dll
+E:\MyProject\Service\User.Defined.Interface\obj\Debug\User.Defined.Interface.pdb
