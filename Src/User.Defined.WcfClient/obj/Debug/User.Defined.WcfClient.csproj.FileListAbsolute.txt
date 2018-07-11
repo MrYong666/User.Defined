@@ -10,3 +10,5 @@ E:\MyProject\User.Defined\Src\User.Defined.WcfClient\bin\Debug\User.Defined.WcfC
 E:\MyProject\User.Defined\Src\User.Defined.WcfClient\obj\Debug\User.Defined.WcfClient.exe
 E:\MyProject\User.Defined\Src\User.Defined.WcfClient\obj\Debug\User.Defined.WcfClient.pdb
 E:\MyProject\User.Defined\Src\User.Defined.WcfClient\obj\Debug\User.Defined.WcfClient.csprojResolveAssemblyReference.cache
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\bin\Debug\Newtonsoft.Json.xml
