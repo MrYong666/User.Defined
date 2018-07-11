@@ -4,3 +4,9 @@ E:\PersonProject\Service\SunWcfClient\bin\Debug\User.Defined.WcfClient.pdb
 E:\PersonProject\Service\SunWcfClient\obj\Debug\User.Defined.WcfClient.exe
 E:\PersonProject\Service\SunWcfClient\obj\Debug\User.Defined.WcfClient.pdb
 E:\PersonProject\Service\SunWcfClient\obj\Debug\User.Defined.WcfClient.csprojResolveAssemblyReference.cache
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\bin\Debug\User.Defined.WcfClient.exe.config
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\bin\Debug\User.Defined.WcfClient.exe
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\bin\Debug\User.Defined.WcfClient.pdb
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\obj\Debug\User.Defined.WcfClient.csprojResolveAssemblyReference.cache
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\obj\Debug\User.Defined.WcfClient.exe
+E:\MyProject\User.Defined\Src\User.Defined.WcfClient\obj\Debug\User.Defined.WcfClient.pdb

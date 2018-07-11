@@ -16,3 +16,15 @@ E:\PersonProject\Service\SunWcfService\bin\Microsoft.AI.WindowsServer.xml
 E:\PersonProject\Service\SunWcfService\bin\Microsoft.ApplicationInsights.xml
 E:\PersonProject\Service\SunWcfService\obj\Debug\User.Defined.WcfService.dll
 E:\PersonProject\Service\SunWcfService\obj\Debug\User.Defined.WcfService.pdb
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\ApplicationInsights.config
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.dll.config
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.dll
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.pdb
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.DependencyCollector.xml
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.Web.xml
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.AI.WindowsServer.xml
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Microsoft.ApplicationInsights.xml
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.csprojResolveAssemblyReference.cache
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.dll
+E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.pdb
