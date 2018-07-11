@@ -6,11 +6,3 @@ E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.csproj.
 E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.exe
 E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.pdb
 E:\PersonProject\Service\SunService\obj\Debug\User.Defined.WindowService.csprojResolveAssemblyReference.cache
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\bin\Debug\User.Defined.WindowService.exe.config
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\bin\Debug\User.Defined.WindowService.exe
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\bin\Debug\User.Defined.WindowService.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\SunService.ProjectInstaller.resources
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.csproj.GenerateResource.Cache
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.exe
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.csprojResolveAssemblyReference.cache

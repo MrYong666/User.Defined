@@ -16,15 +16,3 @@ E:\PersonProject\Service\SunWcfService\bin\Microsoft.AI.WindowsServer.xml
 E:\PersonProject\Service\SunWcfService\bin\Microsoft.ApplicationInsights.xml
 E:\PersonProject\Service\SunWcfService\obj\Debug\User.Defined.WcfService.dll
 E:\PersonProject\Service\SunWcfService\obj\Debug\User.Defined.WcfService.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\ApplicationInsights.config
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.dll.config
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.dll
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.csprojResolveAssemblyReference.cache
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.dll
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Newtonsoft.Json.dll
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\Newtonsoft.Json.xml
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\nunit.framework.dll
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\nunit.framework.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\nunit.framework.xml
