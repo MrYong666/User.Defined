@@ -22,4 +22,3 @@ E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfServic
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\bin\User.Defined.WcfService.pdb
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.dll
 E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.pdb
-E:\MyProject\User.Defined\Src\User.Defined.WcfService\obj\Debug\User.Defined.WcfService.csprojResolveAssemblyReference.cache
