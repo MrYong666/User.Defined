@@ -24,6 +24,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Nuget", ".Nuget", "{B770BE
 		..\.nuget\NuGet.targets = ..\.nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{D98BC142-1B5C-430A-BC43-31899D6520C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2E51CD3D-B0AA-43B9-AD56-091EB8BCFD00} = {9C1BE9E8-6BB1-4299-BF7B-0391D4C5153C}
 		{A6FB353D-C962-4DA5-BA32-36449F6CF35B} = {9C1BE9E8-6BB1-4299-BF7B-0391D4C5153C}
+		{B2F79A21-605C-4A76-BE15-3C62476A7D1A} = {D98BC142-1B5C-430A-BC43-31899D6520C2}
 		{FE6C64C0-A259-4E6E-B4D6-F47CE58DBAE9} = {C72DEEE3-1B08-4689-A5BE-FBEE3193A561}
 	EndGlobalSection
 EndGlobal
