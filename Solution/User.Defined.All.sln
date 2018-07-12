@@ -17,11 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsService", "WindowsSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Defined.WindowService", "..\Src\User.Defined.WindowService\User.Defined.WindowService.csproj", "{FE6C64C0-A259-4E6E-B4D6-F47CE58DBAE9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{ABF2DF22-8AEA-4C43-879F-9FB411BB1804}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{538F1480-6E63-4F6E-BC32-788FD084ADB5}"
 	ProjectSection(SolutionItems) = preProject
-		..\.nuget\NuGet.Config = ..\.nuget\NuGet.Config
-		..\.nuget\NuGet.exe = ..\.nuget\NuGet.exe
-		..\.nuget\NuGet.targets = ..\.nuget\NuGet.targets
+		Nuget.config = Nuget.config
 	EndProjectSection
 EndProject
 Global

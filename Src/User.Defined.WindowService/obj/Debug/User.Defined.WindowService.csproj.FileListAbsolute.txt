@@ -13,3 +13,4 @@ E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\SunService.Pr
 E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.csproj.GenerateResource.Cache
 E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.exe
 E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.pdb
+E:\MyProject\User.Defined\Src\User.Defined.WindowService\obj\Debug\User.Defined.WindowService.csprojResolveAssemblyReference.cache
