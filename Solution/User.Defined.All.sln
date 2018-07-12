@@ -17,6 +17,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsService", "WindowsSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Defined.WindowService", "..\Src\User.Defined.WindowService\User.Defined.WindowService.csproj", "{FE6C64C0-A259-4E6E-B4D6-F47CE58DBAE9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Nuget", ".Nuget", "{B770BE22-EA74-4798-B571-838A40161DA5}"
+	ProjectSection(SolutionItems) = preProject
+		..\.nuget\NuGet.Config = ..\.nuget\NuGet.Config
+		..\.nuget\NuGet.exe = ..\.nuget\NuGet.exe
+		..\.nuget\NuGet.targets = ..\.nuget\NuGet.targets
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
