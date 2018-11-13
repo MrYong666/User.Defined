@@ -9,8 +9,8 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 using System.ServiceModel;
-using SimpleService;
 using Newtonsoft.Json;
+using User.Defined.SimpleService;
 
 namespace SunService
 {

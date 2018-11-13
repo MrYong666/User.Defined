@@ -74,6 +74,12 @@
       <DependentUpon>ProjectInstaller.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\User.Defined.WcfServiceForWindows\User.Defined.SimpleService.csproj">
+      <Project>{649e925c-4eb3-4292-91d2-a5f9d5c7291a}</Project>
+      <Name>User.Defined.SimpleService</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
