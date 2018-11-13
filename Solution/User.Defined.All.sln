@@ -26,7 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Nuget", ".Nuget", "{B770BE
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{D98BC142-1B5C-430A-BC43-31899D6520C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleService", "WcfServiceLibrary1\SimpleService.csproj", "{649E925C-4EB3-4292-91D2-A5F9D5C7291A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Defined.SimpleService", "..\Src\User.Defined.WcfServiceForWindows\User.Defined.SimpleService.csproj", "{649E925C-4EB3-4292-91D2-A5F9D5C7291A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
