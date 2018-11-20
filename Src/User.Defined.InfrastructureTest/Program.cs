@@ -13,6 +13,11 @@ namespace User.Defined.InfrastructureTest
         {
             LoggerWrapper.Debug("dddddddddd");
             LoggerWrapper.Error("dddddddddd");
+
+            #region  WcfTest
+            var result = WcfTest.GetWcfMethod();
+
+            #endregion
         }
     }
 }

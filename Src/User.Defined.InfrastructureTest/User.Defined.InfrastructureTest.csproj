@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -54,6 +55,10 @@
     <ProjectReference Include="..\User.Defined.Infrastructure\User.Defined.Infrastructure.csproj">
       <Project>{b2f79a21-605c-4a76-be15-3c62476a7d1a}</Project>
       <Name>User.Defined.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\User.Defined.WcfServiceForWindows\User.Defined.SimpleService.csproj">
+      <Project>{649e925c-4eb3-4292-91d2-a5f9d5c7291a}</Project>
+      <Name>User.Defined.SimpleService</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

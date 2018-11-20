@@ -7,17 +7,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 using System.Xml;
+using User.Defined.Infrastructure.Nlog;
+
 namespace User.Defined.Infrastructure.Wcf
 {
     public class WcfInvokeFactory
     {
-        #region WCF服务工厂
+        #region  CreateService
         public static T CreateServiceByUrl<T>(string url)
         {
             return CreateServiceByUrl<T>(url, "basicHttpBinding");
         }
-
-        public static T CreateServiceByUrl<T>(string url, string bing)
+        private static T CreateServiceByUrl<T>(string url, string bing)
         {
             try
             {
@@ -26,6 +27,54 @@ namespace User.Defined.Infrastructure.Wcf
                 Binding binding = CreateBinding(bing);
                 ChannelFactory<T> factory = new ChannelFactory<T>(binding, address);
                 return factory.CreateChannel();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("创建服务工厂出现异常.");
+            }
+        }
+        #endregion
+
+        #region Invoke
+        public static void Invoke<T>(string url, Action<T> method)
+        {
+            ChannelFactory<T> client = WcfInvokeFactory.CreateChannelByUrl<T>(url);
+            try
+            {
+                method(client.CreateChannel());
+                client.Close();
+            }
+            catch (System.ServiceModel.CommunicationException ex)
+            {
+                client.Abort();
+                LoggerWrapper.Error(ex.Message);
+            }
+            catch (TimeoutException ex)
+            {
+                client.Abort();
+                LoggerWrapper.Error(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                client.Abort();
+                LoggerWrapper.Error(ex.Message);
+            }
+        }
+        #endregion
+
+        #region CreateChannel
+        private static ChannelFactory<T> CreateChannelByUrl<T>(string url)
+        {
+            return GetChannelFactory<T>(url, "basicHttpBinding");
+        }
+        private static ChannelFactory<T> GetChannelFactory<T>(string url, string bing)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(url)) throw new NotSupportedException("This url is not Null or Empty!");
+                EndpointAddress address = new EndpointAddress(url);
+                Binding binding = CreateBinding(bing);
+                return new ChannelFactory<T>(binding, address);
             }
             catch (Exception ex)
             {
