@@ -5,7 +5,7 @@ using System.ServiceModel;
 using System.Text;
 using System.Threading.Tasks;
 using User.Defined.Infrastructure.Wcf;
-using User.Defined.SimpleService;
+using User.Defined.Interface;
 
 namespace User.Defined.InfrastructureTest
 {
@@ -20,36 +20,14 @@ namespace User.Defined.InfrastructureTest
             //第二种方式
             // ChannelFactory<IIHelloService> ddd = WcfInvokeFactory.GetChannelFactory11<IIHelloService>(url);
             //第三种方式
-            WcfInvokeFactory.Invoke<IIHelloService>(url, helloService =>
+            WcfInvokeFactory.Invoke<IIHelloService>(url, wcfService =>
             {
-                result = helloService.DoWork();
+                result = wcfService.DoWork();
+                var name = wcfService.GetName();
+                var sex = wcfService.GetSex();
             });
             return proxy.DoWork();
 
-        }
-
-        public static void Invoke<TClient>(Action<TClient> act)
-          where TClient : System.ServiceModel.ICommunicationObject, new()
-        {
-            TClient client = new TClient();
-            try
-            {
-                act(client);
-                client.Close();
-            }
-            catch (System.ServiceModel.CommunicationException)
-            {
-                client.Abort();
-            }
-            catch (TimeoutException)
-            {
-                client.Abort();
-            }
-            catch (Exception)
-            {
-                client.Abort();
-                throw;
-            }
         }
     }
 }

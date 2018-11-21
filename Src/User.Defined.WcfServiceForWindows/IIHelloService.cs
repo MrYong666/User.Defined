@@ -13,5 +13,9 @@ namespace User.Defined.SimpleService
     {
         [OperationContract]
         string DoWork();
+        [OperationContract]
+        string GetName();
+        [OperationContract]
+        string GetSex();
     }
 }

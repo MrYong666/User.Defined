@@ -45,11 +45,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HelloService.cs" />
-    <Compile Include="IIHelloService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\User.Defined.Interface\User.Defined.Interface.csproj">
+      <Project>{4fc3677e-c417-4e07-b7b4-588ed5040436}</Project>
+      <Name>User.Defined.Interface</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

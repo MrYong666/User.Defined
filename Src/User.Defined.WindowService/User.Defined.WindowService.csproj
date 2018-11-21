@@ -79,6 +79,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\User.Defined.Interface\User.Defined.Interface.csproj">
+      <Project>{4fc3677e-c417-4e07-b7b4-588ed5040436}</Project>
+      <Name>User.Defined.Interface</Name>
+    </ProjectReference>
     <ProjectReference Include="..\User.Defined.WcfServiceForWindows\User.Defined.SimpleService.csproj">
       <Project>{649e925c-4eb3-4292-91d2-a5f9d5c7291a}</Project>
       <Name>User.Defined.SimpleService</Name>
