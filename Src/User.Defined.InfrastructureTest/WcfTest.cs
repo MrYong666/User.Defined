@@ -25,6 +25,10 @@ namespace User.Defined.InfrastructureTest
                 result = wcfService.DoWork();
                 var name = wcfService.GetName();
                 var sex = wcfService.GetSex();
+                UserInfo userinfo = new UserInfo();
+                userinfo.name = "zhangsan";
+                userinfo.age = "12";
+                var userInfo = wcfService.GetUserInfo(userinfo);
             });
             return proxy.DoWork();
 

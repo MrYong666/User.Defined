@@ -23,5 +23,13 @@ namespace User.Defined.SimpleService
         {
             return "Male";
         }
+        public UserInfo GetUserInfo(UserInfo userInfo)
+        {
+            UserInfo userInfoCurrent = new UserInfo();
+            userInfoCurrent.name = userInfo.name;
+            userInfoCurrent.age = userInfo.age;
+            return userInfoCurrent;
+
+        }
     }
 }
